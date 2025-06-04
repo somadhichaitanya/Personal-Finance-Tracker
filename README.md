@@ -18,10 +18,13 @@ This is a responsive and attractive personal finance tracker built with **Flask*
 
 ## 🖥️ Run Locally
 
-### 1. Clone the Repository
+## Create Virtual Environment  
 
-git clone https://github.com/yourusername/personal-finance-tracker-web-styled.git
-cd personal-finance-tracker
+## Ꙍ Install Dependencies
+
+## ⛁ Create SQLite Database
+
+## 📈 Run the app
 
 ## personal-finance-tracker/
 ├── app.py
